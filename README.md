@@ -4,7 +4,7 @@
 
 This project is geared towards helping you improve your familiarity with React hooks and will function similarly to the original React Drills. We will provide minimal guidance compared to most afternoon projects that offer detailed instructions. When you first go through these set of problems, you may need to look at solutions for help. The goal, however, should be to get to the point where you can complete all sets of problems without any help from solutions and/or mentors.
 
-The solutions provided in this project are just one way you can accomplish the project. If you are curious if your solution is "correct", you can ask a mentor to compare your answer to the ones we are providing.
+The solutions provided in this project are just one way you can accomplish the project. If you are curious if your solution is "correct", you can ask a mentor to compare your answer to the ones we are providing.c
 
 ## Challenge
 
